@@ -24,12 +24,24 @@ Summary:
 
 ### The Differences
 
-#### The District Summary
-#### The School Summary
-#### THS performance vs the other schools (with the ninth grade scores were removed)
+#### The District Summary - includes each student at each school and their respective math and reading scores.
+* The removal of 9th grade scores affected every category. As you can there were drops in every category except for the average reading score, which remained at 81.9. Even the student count dropped, meaning they will no longer be accounted for in the new calculations.
 
+![Original District Summary](Path)
+![Challenge District Summary](Path)
+
+#### The School Summary
+* There was an almost 4% increase in the Percentage passing reading feild for Thomas High. 93.3 --> 97.02
+* The other Thomas High metrics saw very subtle increases as well.
+* Only the Thomas High data was modified, all other fields remain the same.
+
+![Original_school_summary]()
+![Challenge_school_summary]()
+
+#### THS performance vs the other schools (with the ninth grade scores were removed)
+* reading average and % passing increased
 #### How did replacing the ninth grad scores affect the following:
-* Math and reading scores by grade
+* Math and reading scores by grade no difference
 * Scores by school spending
 * Scores by school size
 * Scores by school type  
